@@ -22,6 +22,12 @@ Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial E
 | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |------|
 
 - - -
+
+
+#### 📈 Stats on Github:
+
+| ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=karlverger&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=karlverger&theme=blue-green)](https://github.com/karlverger/github-readme-stats)      | 
+| ---------------   
 <!--
 #### ⚡ I currently know or am learning following Technologies & Tools:
 
@@ -57,11 +63,7 @@ Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial E
 </p>
 
 - - -
-
-#### 📈 Stats on Github:
-
-| ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=karlverger&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=karlverger&theme=blue-green)](https://github.com/karlverger/github-readme-stats)      | 
-| ---------------                                                                                                | --------------- | 
+                                                                                             | --------------- | 
 
 
 -->
