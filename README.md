@@ -1,4 +1,4 @@
-### <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">  [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karlverger.karlverger)
+### <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">  
 
 Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more ! Looking to use coding to create, innovate, add value and solve problems. 
 
