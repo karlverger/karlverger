@@ -1,4 +1,4 @@
-#### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🙋‍♂️💻 👨‍💻😎👽 My name is Karl Veger![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karlverger.karlverger)
+### <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="30px"> Hello My name is Karl Veger! [Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karlverger.karlverger)
 
 Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more ! Looking to use coding to create, innovate, add value and solve problems. 
 
