@@ -60,30 +60,9 @@ Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial E
 
 #### 📈 Stats on Github:
 
-| ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MatricksDeCoder&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=MatricksDeCoder&theme=blue-green)](https://github.com/MatricksDeCoder/github-readme-stats)      | 
+| ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=karlverger&theme=blue-green)          | [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=karlverger&theme=blue-green)](https://github.com/karlverger/github-readme-stats)      | 
 | ---------------                                                                                                | --------------- | 
 
-### 📩 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [web3.js vs. ethers.js](https://matricksdecoder.hashnode.dev/web3js-vs-ethersjs-ckifv2thx01ugfhs1fk0wedto)
-- [What motivates me to blog. Writers block bring it on!](https://matricksdecoder.hashnode.dev/what-motivates-me-to-blog-writers-block-bring-it-on-ckhu8v5cp00wcses1gysd24u3)
-- [Secrets to become a great developer](https://matricksdecoder.hashnode.dev/secrets-to-become-a-great-developer-ckholc84703n2eks116bu2ecj)
-<!-- BLOG-POST-LIST:END -->
 
 -->
 
-
-<!--
-**karlverger/karlverger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
