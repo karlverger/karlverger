@@ -63,7 +63,6 @@ Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial E
 </p>
 
 - - -
-                                                                                             | --------------- | 
 
 
 -->
