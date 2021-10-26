@@ -3,8 +3,8 @@
 Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more ! Looking to use coding to create, innovate, add value and solve problems. 
 
 #### 📖 My areas of interest :
-| Software Development | Blockchain      | Web Development |  Startup | Design & Marketing |   Data Science & Machine Learning |      
-| ---------------      | --------------- | --------------- | ---------|------------------- |---------------------------------- |
+| Software Development | Blockchain      | Web Development |  Business model | Design & Marketing |   Data Science & Machine Learning |      
+| ---------------      | --------------- | --------------- | ---------       |------------------- |---------------------------------- |
 
 - - -  
 
