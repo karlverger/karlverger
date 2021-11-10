@@ -1,6 +1,6 @@
 ### <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">  
 
-Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more ! Looking to use coding to create, innovate, add value and solve problems. 
+Entrepreneur and Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial Engineer, Techie,  and more ! Looking to use coding to create, innovate, add value and solve problems. 
 
 #### 📖 My areas of interest :
 | Software Development | Blockchain      | Web Development |  Business model | Design & Marketing |   Data Science & Machine Learning |      
@@ -18,7 +18,7 @@ Full Stack Software Developer, Blockchain Developer, Data Scientist, Financial E
 
 #### 🌱 I currently know or am learning the following languages :
 
-| Python          |      JavaScript | TypeScript      | Solidity        | PHP            | Laravel        | Java |
+| Python          |      JavaScript | TypeScript      | Solidity        | PHP            | Laravel        | Java |z   
 | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |------|
 
 - - -
