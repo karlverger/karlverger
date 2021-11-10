@@ -23,12 +23,12 @@ Entrepreneur and Full Stack Software Developer, Blockchain Developer, Data Scien
 
 - - -
 
-
+<!--
 #### 📈 Stats on Github:
 
 [![Zed's github stats](https://github-readme-stats.vercel.app/api?username=karlverger&theme=blue-green)](https://github.com/karlverger/github-readme-stats)      
 
-<!--
+
 #### ⚡ I currently know or am learning following Technologies & Tools:
 
 <p>
