@@ -18,7 +18,7 @@ Entrepreneur and Full Stack Software Developer, Blockchain Developer, Data Scien
 
 #### 🌱 I currently know or am learning the following languages :
 
-| Python          |      JavaScript | TypeScript      | Solidity        | PHP            | Laravel        | Java |z   
+| Python          |      JavaScript | TypeScript      | Solidity        | PHP            | Laravel        | Java |   
 | --------------- | --------------- | --------------- | --------------- |--------------- |--------------- |------|
 
 - - -
