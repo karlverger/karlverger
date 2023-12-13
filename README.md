@@ -3,7 +3,7 @@
 Entrepreneur and Full Stack Developer. Blockchain, AI.
 
 #### 📖 My areas of interest :
-| Software Development | Blockchain      | Web Development |  Business model | Design & Marketing |   Data Science & Machine Learning |      
+| Software Development | Blockchain      | Web Development |  Business model | Design & Marketing |   Data Science & AI |      
 | ---------------      | --------------- | --------------- | ---------       |------------------- |---------------------------------- |
 
 - - -  
