@@ -1,15 +1,11 @@
-### <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">  
+# <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">**Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlverger)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlverger)
+# 🔭 Currently working on ⬇ ⬇
+## **Building a Brokers Insurance Group and the AI / SaaS applications to improve our brokers**
+<br>
 
-### 💻 About Me
-**Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**
-I'm always curious about learning new technologies and improving my skills.
-
-- 🔭 Currently working on: **Building a Brokers Insurance Group and the AI / SaaS applications to improve our brokers**
-
-
-### 🔧 Tech Stack & Tools
+# 🔧 Tech Stack & Tools
 
 ##### 🤖 ML/DL
 <p>
