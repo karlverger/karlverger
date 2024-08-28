@@ -6,7 +6,7 @@
 **Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**
 I'm always curious about learning new technologies and improving my skills.
 
-- 🔭 Currently working on: **Building an insurance Group**
+- 🔭 Currently working on: **Building a Brokers Insurance Group and the AI / SaaS applications to improve our brokers**
 
 
 ### 🔧 Tech Stack & Tools
