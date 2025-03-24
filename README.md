@@ -13,14 +13,15 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 ### 🛠️ Stack Technique
 
 **Frontend:**
-- React.js, Vue.js
+- React.js 
 - TypeScript, JavaScript
 - Chakra UI, Tailwind CSS
+- Bootstrap
 - Redux, Zustand
 
 **Backend:**
-- Python (FastAPI, Django)
-- PHP (Laravel, Symfony)
+- Python (FastAPI)
+- PHP (Laravel)
 - Node.js (Express)
 - Architecture microservices
 
@@ -41,10 +42,11 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 - Sécurité et performance
 
 **Business & Stratégie:**
+- Management de l'Innovation
 - Conception de produits
 - Workflow automation
 - Business process optimization
-- Leadership technique
+- Leadership technologique
 
 ### 🔭 Projets actuels
 
