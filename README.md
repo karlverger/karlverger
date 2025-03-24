@@ -57,7 +57,7 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 - Co-fondateur de plusieurs startups tech
 - Conception et développement de produits SaaS de A à Z
 - Mise en place d'équipes techniques performantes
-- Transformation numérique d'entreprises traditionnelles
+- Transformation numérique d'entreprises traditionnelles (Grands comptes et PME)
 
 ### 📫 Me contacter
 
