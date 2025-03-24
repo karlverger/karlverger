@@ -4,73 +4,76 @@
 # 🔭 Currently working on ⬇ ⬇
 ## **Building a Brokers Insurance Group and the AI / SaaS applications to improve our brokers**
 <br>
-👋 Hey, je suis Karl Verger
-🚀 CTO, Entrepreneur & Full Stack Developer
+# 👋 Hey, je suis Karl Verger
+
+## 🚀 CTO, Entrepreneur & Full Stack Developer
+
 Je suis un développeur entrepreneur avec une vision stratégique et technique, spécialisé dans la création d'applications web innovantes et l'intégration de solutions d'intelligence artificielle. Mon approche allie expertise technique et compréhension approfondie des enjeux business pour transformer des idées en produits performants.
-🛠️ Stack Technique
-Frontend:
 
-React.js, Vue.js
-TypeScript, JavaScript
-Chakra UI, Tailwind CSS
-Redux, Zustand
+### 🛠️ Stack Technique
 
-Backend:
+**Frontend:**
+- React.js, Vue.js
+- TypeScript, JavaScript
+- Chakra UI, Tailwind CSS
+- Redux, Zustand
 
-Python (FastAPI, Django)
-PHP (Laravel, Symfony)
-Node.js (Express)
-Architecture microservices
+**Backend:**
+- Python (FastAPI, Django)
+- PHP (Laravel, Symfony)
+- Node.js (Express)
+- Architecture microservices
 
-Bases de données:
+**Bases de données:**
+- PostgreSQL, MySQL
+- MongoDB
+- Optimisation de requêtes et modélisation
 
-PostgreSQL, MySQL
-MongoDB
-Optimisation de requêtes et modélisation
+**Intelligence Artificielle:**
+- Intégration d'IA générative (GPT, Claude)
+- Classification et analyse de données
+- Modèles de traitement du langage naturel
 
-Intelligence Artificielle:
+**DevOps & Cloud:**
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, GitLab CI)
+- AWS, Google Cloud, Azure
+- Sécurité et performance
 
-Intégration d'IA générative (GPT, Claude)
-Classification et analyse de données
-Modèles de traitement du langage naturel
+**Business & Stratégie:**
+- Conception de produits
+- Workflow automation
+- Business process optimization
+- Leadership technique
 
-DevOps & Cloud:
+### 🔭 Projets actuels
 
-Docker, Kubernetes
-CI/CD (GitHub Actions, GitLab CI)
-AWS, Google Cloud, Azure
-Sécurité et performance
+- **Broker AI** - Une plateforme d'automatisation pour courtiers combinant outils d'analyse de documents et IA générative
+- **AI Document Analyzer** - Système d'extraction et d'analyse de données à partir de documents pour automatiser les tâches administratives
+- **Process Optimization Suite** - Solution d'optimisation des flux de travail pour entreprises en croissance
 
-Business & Stratégie:
+### 💼 Expérience Entrepreneuriale
 
-Conception de produits
-Workflow automation
-Business process optimization
-Leadership technique
+- Co-fondateur de plusieurs startups tech
+- Conception et développement de produits SaaS de A à Z
+- Mise en place d'équipes techniques performantes
+- Transformation numérique d'entreprises traditionnelles
 
-🔭 Projets actuels
+### 📫 Me contacter
 
-Broker AI - Une plateforme d'automatisation pour courtiers combinant outils d'analyse de documents et IA générative
-AI Document Analyzer - Système d'extraction et d'analyse de données à partir de documents pour automatiser les tâches administratives
-Process Optimization Suite - Solution d'optimisation des flux de travail pour entreprises en croissance
+- LinkedIn: [KarlVerger](https://linkedin.com/in/karlverger)
+- Twitter: [@KarlVerger](https://twitter.com/karlverger)
+- Email: contact@karlverger.com
 
-💼 Expérience Entrepreneuriale
+### 📊 Statistiques GitHub
 
-Co-fondateur de plusieurs startups tech
-Conception et développement de produits SaaS de A à Z
-Mise en place d'équipes techniques performantes
-Transformation numérique d'entreprises traditionnelles
+![Karl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlverger&show_icons=true&theme=radical)
 
-📫 Me contacter
+### 🤝 Collaborations
 
-LinkedIn: KarlVerger
-Twitter: @KarlVerger
-Email: contact@karlverger.com
-
-📊 Statistiques GitHub
-Afficher l'image
-🤝 Collaborations
 Je suis toujours ouvert aux opportunités de collaboration, qu'il s'agisse de projets innovants, de conseils stratégiques ou de partenariats business. Mon expertise technique couplée à ma vision entrepreneuriale me permet d'apporter une valeur ajoutée unique aux projets sur lesquels je m'engage.
+
+---
 
 ⭐️ Transforming ideas into impactful solutions with code, strategy and vision ⭐️
 
