@@ -30,7 +30,7 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 - Optimisation de requêtes et modélisation
 
 **Intelligence Artificielle:**
-- Intégration d'IA générative (GPT, Claude)
+- Intégration d'IA générative (GPT, Claude,Gemini, ...)
 - Classification et analyse de données
 - Modèles de traitement du langage naturel
 
