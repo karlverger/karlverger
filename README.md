@@ -79,7 +79,7 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=karlverger&theme=onedark&column=7)
 
-[![wakatime](https://wakatime.com/badge/user/karlverger.svg)](https://wakatime.com/@karlverger)
+
 
 ### 🤝 Collaborations
 
