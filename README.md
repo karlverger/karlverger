@@ -46,13 +46,6 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 - Business process optimization
 - Leadership technique
 
-**🎨 Design:**
-<p>
-<img alt="Figma" src="https://img.shields.io/badge/figma-blue?logo=figma&logoColor=f5f5f5" height="25"/>  
-<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe XD-blue?logo=adobexd&logoColor=f5f5f5" height="25"/>
-<img alt="Adobe Creative Cloud" src="https://img.shields.io/badge/Adobe Creative Cloud-blue?logo=adobe creative cloud&logoColor=f5f5f5" height="25"/>
-</p>
-
 ### 🔭 Projets actuels
 
 - **Broker AI** - Une plateforme d'automatisation pour courtiers combinant outils d'analyse de documents et IA générative
