@@ -69,6 +69,18 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 
 ![Karl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlverger&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlverger&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karlverger&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=karlverger&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=karlverger&color=blueviolet)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=karlverger&theme=onedark&column=7)
+
+[![wakatime](https://wakatime.com/badge/user/karlverger.svg)](https://wakatime.com/@karlverger)
+
 ### 🤝 Collaborations
 
 Je suis toujours ouvert aux opportunités de collaboration, qu'il s'agisse de projets innovants, de conseils stratégiques ou de partenariats business. Mon expertise technique couplée à ma vision entrepreneuriale me permet d'apporter une valeur ajoutée unique aux projets sur lesquels je m'engage.
