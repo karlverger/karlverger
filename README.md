@@ -8,7 +8,7 @@
 
 ## 🚀 CTO, Entrepreneur & Full Stack Developer
 
-Je suis un développeur entrepreneur avec une vision stratégique et technique, spécialisé dans la création d'applications web innovantes et l'intégration de solutions d'intelligence artificielle. Mon approche allie expertise technique et compréhension approfondie des enjeux business pour transformer des idées en produits performants.
+Je suis un développeur entrepreneur avec une vision stratégique et technique, spécialisé dans la création d'applications innovantes et l'intégration de solutions d'intelligence artificielle et blockchain. Mon approche allie expertise technique et compréhension approfondie des enjeux business pour transformer des idées en produits performants.
 
 ### 🛠️ Stack Technique
 
