@@ -65,18 +65,6 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 
 - LinkedIn: [KarlVerger](https://linkedin.com/in/karlverger)
 
-### 📊 Statistiques GitHub
-
-![Karl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlverger&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlverger&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karlverger&theme=radical)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=karlverger&theme=react-dark)
-
-
-
 
 ### 🤝 Collaborations
 
