@@ -62,8 +62,6 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 ### 📫 Me contacter
 
 - LinkedIn: [KarlVerger](https://linkedin.com/in/karlverger)
-- Twitter: [@KarlVerger](https://twitter.com/karlverger)
-- Email: contact@karlverger.com
 
 ### 📊 Statistiques GitHub
 
