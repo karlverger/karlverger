@@ -75,9 +75,6 @@ Je suis un développeur entrepreneur avec une vision stratégique et technique, 
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=karlverger&theme=react-dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=karlverger&color=blueviolet)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=karlverger&theme=onedark&column=7)
 
 
 
