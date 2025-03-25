@@ -1,4 +1,4 @@
-# <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">**Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlverger)
+# <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">** CTO Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlverger)
 <br>
 
 # 👋 Hey, je suis Karl Verger
