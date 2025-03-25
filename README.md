@@ -43,6 +43,9 @@ Développeur entrepreneur avec une vision stratégique et technique, spécialis�
 ### 🔭 Projets actuels
 
 - **Broker AI** - Une plateforme d'automatisation pour courtiers combinant outils d'analyse de documents et IA générative
+  ```shell
+  Conception d'une palteforme, spécifiquement développée pour accompagner les courtiers en assurance que nous intégrons. Basée sur une architecture microservices, cette solution modulaire intègre des technologies d’automatisation et d’intelligence artificielle pour extraire et classer intelligemment les **documents métiers**, les emails et les messages issus de canaux multiples, entrants et sortants. Elle s’enrichit d’une suite de compagnons digitaux, véritables assistants du quotidien, facilitant la gestion des contrats, des sinistres, des relances et des obligations réglementaires. Cette approche centrée sur la performance opérationnelle vise à alléger la charge administrative, renforcer la conformité et offrir une vision unifiée de l’activité du cabinet, tout en assurant une transition fluide dans notre environnement. 
+  ```
 - **AI Document Analyzer** - Système d'extraction et d'analyse de données à partir de documents pour automatiser les tâches administratives
 - **Process Optimization Suite** - Solution d'optimisation des flux de travail pour entreprises en croissance
 
