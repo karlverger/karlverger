@@ -1,8 +1,4 @@
-# <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">** CTO Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlverger)
-<br>
-
-# 👋 Hey, je suis Karl Verger
-## 🚀 CTO, Entrepreneur & Full Stack Developer
+# <img src="https://github.com/karlverger/karlverger/blob/main/minio-hi.gif" width="80px">**CTO, Entrepreneur and Full Stack Developer. Python, Laravel, React, Blockchain, AI**   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlverger)
 
 Développeur entrepreneur avec une vision stratégique et technique, spécialisé dans la création d'applications innovantes et l'intégration de solutions d'intelligence artificielle et blockchain. Mon approche allie expertise technique et compréhension approfondie des enjeux business pour transformer des idées en produits performants.
 
