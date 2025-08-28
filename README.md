@@ -8,6 +8,7 @@ Développeur entrepreneur avec une vision stratégique et technique, spécialis�
 - React.js 
 - TypeScript, JavaScript
 - Chakra UI, Tailwind CSS
+- Radix
 - Bootstrap
 - Redux, Zustand
 
@@ -23,7 +24,7 @@ Développeur entrepreneur avec une vision stratégique et technique, spécialis�
 - Optimisation de requêtes et modélisation
 
 **Intelligence Artificielle:**
-- Intégration d'IA générative (GPT, Claude,Gemini, ...)
+- Intégration d'IA générative (GPT, Claude,Gemini, Ollama, ...)
 - Classification et analyse de données
 - Modèles de traitement du langage naturel
 
